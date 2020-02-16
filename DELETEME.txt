@@ -1,5 +1,0 @@
-contact_email=trent@fake.com
-github_account=LaundryTaxi
-repo_name=miniature-giggle
-forum_url=groups.google.com/my-group
-discord_url=discord.gg/my-discord
